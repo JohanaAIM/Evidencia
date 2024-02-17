@@ -1,0 +1,29 @@
+h1 {
+    color:blue;
+    background-color: yellow;
+}
+
+h2 {
+    color:blue;
+    background-color: yellow;
+}
+
+#Formulario {
+    width:300pxd;
+    background-color: yellow;
+    font: 20px arial;
+    margin:auto;
+    margin-top: 150px;
+    border:2px solid blue;
+    padding: 10px;
+}
+
+body {
+
+    background-image: url(Imagenes/Fondo.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+

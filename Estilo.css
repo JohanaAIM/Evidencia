@@ -1,0 +1,74 @@
+h1 {
+    color:yellow;
+
+}
+
+h1 {
+    background-color: blue;
+
+}
+
+h2 {
+    color:blue;
+    background-color: yellow;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+td {
+    height:"350px";
+
+}
+
+a.Facebook {
+    background-color: blue;
+    color:yellow;
+    font-size: 30px;
+}
+
+a.Instagram {
+    background-color: yellow;
+    color:blue;
+    font-size: 30px;
+}
+
+a.Twitter {
+    background-color: white;
+    color:blue;
+    font-size: 30px;
+}
+
+a.Jugadores {
+    background-color: yellow;
+    font-size: 30px;
+}
+
+a.Mision{
+    background-color: blue;
+    font-size: 30px;
+}
+
+a.Estadio{
+    background-color: white;
+    font-size: 30px;
+
+}
+
+a.Formulario{
+    background-color: red;
+    font-size: 30px;
+}
+body {
+
+    background-image: url(Imagenes/Fondo.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+

@@ -1,0 +1,34 @@
+h1 {
+    color:yellow;
+    background-color: blue;
+}
+
+h2 {
+    color:blue;
+    background-color: yellow;
+}
+
+th {
+    color:yellow;
+    background-color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+td {
+    background-color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.div-3 {
+    float:right;
+}
+
+body {
+
+    background-image: url(Imagenes/Fondo.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

@@ -1,0 +1,27 @@
+h1 {
+    color:blue;
+    background-color:yellow;
+}
+
+h2 {
+    color:blue;
+    background-color: yellow;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+body {
+
+    background-image: url(Imagenes/Fondo.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
